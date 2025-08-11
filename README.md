@@ -17,7 +17,7 @@ Evaluate the results of an A/B test to determine if a new product feature should
 - Jupyter Notebook
 
 ## Dataset
-The dataset is sourced from Kaggle's [A/B Test Results](https://www.kaggle.com/rohitsahoo/ab-testing) dataset. Download the CSV file and place it in the project directory.
+The dataset is sourced from Kaggle's [A/B Test Results](https://www.kaggle.com/datasets/adarsh0806/ab-testing-practice) dataset. Download the CSV file and place it in the project directory.
 
 ## Key Tasks
 - Load and explore the dataset
