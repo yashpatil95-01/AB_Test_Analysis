@@ -30,17 +30,14 @@ The dataset is sourced from Kaggle's [A/B Test Results](https://www.kaggle.com/r
 1. Clone the repo.
 2. Download the dataset CSV from Kaggle and place it inside the repo folder.
 3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-   
-## Requirements
+   ```bash
+   pip install -r requirements.txt
+   ```
 
+
+## Requirements
 ```bash
-txt
-Copy
-Edit
 pandas
-scipy
-jupyter
-```
+statsmodels
+
+```   
