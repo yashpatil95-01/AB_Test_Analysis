@@ -1,9 +1,11 @@
+```
 ab-test-analysis/
 │
 ├── ab_test_analysis.py
 ├── ab_test_analysis.ipynb
 ├── README.md
 └── requirements.txt
+```
 
 # A/B Test Analysis
 
@@ -30,3 +32,15 @@ The dataset is sourced from Kaggle's [A/B Test Results](https://www.kaggle.com/r
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
+   
+## Requirements
+
+```bash
+txt
+Copy
+Edit
+pandas
+scipy
+jupyter
+```
