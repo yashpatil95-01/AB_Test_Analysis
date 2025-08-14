@@ -2,7 +2,7 @@ import pandas as pd
 from statsmodels.stats.proportion import proportions_ztest  # correct import
 
 # Load dataset
-csv_file = "E:\\PythonProjects\\PA-Projects\\AB_Test_Analysis\\data\\ab_testing.csv"
+csv_file = "data/ab_testing.csv"
 df = pd.read_csv(csv_file)
 
 df.info()
@@ -46,7 +46,7 @@ results = {
 
 import os
 
-output_dir = "E:\\PythonProjects\\PA-Projects\\AB_Test_Analysis\\results"
+output_dir = "results"
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 

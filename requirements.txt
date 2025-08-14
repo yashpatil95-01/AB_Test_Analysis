@@ -1,2 +1,3 @@
-pandas
-statsmodels
+pandas>=1.3.0
+statsmodels>=0.12.0
+scipy>=1.7.0

@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Project-specific
+.DS_Store
+Thumbs.db
+
+# Data files (keep structure, exclude large datasets)
+data/*.csv
+!data/.gitkeep
+
+# Allow results to be committed
+!results/**/*.csv
+!results/**/*.png

@@ -36,9 +36,13 @@ pip install -r requirements.txt
 ```
 
 
-## Requirements
-```bash
-pandas
-statsmodels
+## Results
 
-```   
+The analysis outputs:
+- Statistical test results in console
+- Summary CSV file saved to `results/ab_test_summary.csv`
+- Clear recommendation based on p-value significance
+
+## Author
+
+**Yash Patil** - Manufacturing Engineer → Data Analytics
