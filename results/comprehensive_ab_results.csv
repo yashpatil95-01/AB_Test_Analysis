@@ -1,0 +1,18 @@
+Metric,Value
+Group A Sample Size,2519
+Group B Sample Size,2481
+Group A Conversions,136
+Group B Conversions,349
+Group A Conversion Rate,0.0540
+Group B Conversion Rate,0.1407
+Absolute Lift,0.0867
+Relative Lift (%),160.55%
+Z-Statistic,-10.3545
+P-Value,0.000000
+Cohens h,0.2999
+Group A CI Lower,0.0452
+Group A CI Upper,0.0628
+Group B CI Lower,0.1270
+Group B CI Upper,0.1543
+Statistical Significance,Yes
+Recommendation,Implement

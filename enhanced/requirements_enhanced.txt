@@ -1,0 +1,22 @@
+# Enhanced A/B Test Analysis Requirements
+# Additional dependencies for enhanced features
+
+# Core data analysis
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Statistical analysis
+scipy>=1.7.0
+statsmodels>=0.12.0
+
+# Data visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Jupyter notebook support
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Optional: For advanced statistical analysis
+scikit-learn>=1.0.0
+plotly>=5.0.0  # For interactive visualizations
